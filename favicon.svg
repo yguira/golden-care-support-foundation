@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Golden Care Support Foundation logo mark</title>
+  <desc id="desc">A gold sun above a green home with a heart-shaped leaf.</desc>
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7D675"/><stop offset="1" stop-color="#C99122"/></linearGradient></defs>
+  <circle cx="60" cy="60" r="56" fill="#F7F3E7" stroke="#184D3A" stroke-width="4"/>
+  <circle cx="60" cy="31" r="13" fill="url(#gold)"/>
+  <path d="M25 61 60 34l35 27" fill="none" stroke="#184D3A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 60v31h54V60" fill="#fff" stroke="#184D3A" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M60 84c-15-8-19-17-13-23 5-5 11-2 13 2 2-4 8-7 13-2 6 6 2 15-13 23Z" fill="url(#gold)"/>
+  <path d="M60 83c2-11 8-17 17-20-1 9-7 16-17 20Z" fill="#2F7D5C" opacity=".95"/>
+</svg>

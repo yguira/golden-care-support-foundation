@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 150" role="img" aria-labelledby="title desc">
+  <title id="title">Golden Care Support Foundation</title>
+  <desc id="desc">Logo featuring a caring home, heart, leaf and golden sun.</desc>
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7D675"/><stop offset="1" stop-color="#C99122"/></linearGradient></defs>
+  <g transform="translate(5 5)">
+    <circle cx="70" cy="70" r="64" fill="#F7F3E7" stroke="#184D3A" stroke-width="4"/>
+    <circle cx="70" cy="36" r="14" fill="url(#gold)"/>
+    <path d="M30 70 70 39l40 31" fill="none" stroke="#184D3A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M39 69v37h62V69" fill="#fff" stroke="#184D3A" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M70 98c-17-9-21-20-14-27 6-6 12-2 14 3 3-5 10-9 15-3 7 7 3 18-15 27Z" fill="url(#gold)"/>
+    <path d="M70 97c2-12 9-20 20-23-2 11-8 19-20 23Z" fill="#2F7D5C"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="158" y="62" font-size="43" font-weight="800" fill="#184D3A" letter-spacing="-.7">Golden Care</text>
+    <text x="160" y="102" font-size="31" font-weight="700" fill="#2E3440" letter-spacing="1.2">SUPPORT FOUNDATION</text>
+    <text x="161" y="129" font-size="16" font-weight="600" fill="#9A6A13" letter-spacing="2.1">NEIGHBORS CARING FOR NEIGHBORS</text>
+  </g>
+</svg>
